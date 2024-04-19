@@ -1,7 +1,7 @@
 ### My Self Rishabh Rai  👋
 <img src="https://i.imgur.com/JNxZDWU.gif" height=21px>![](https://komarev.com/ghpvc/?username=RatingRishu)
-- 🔭 I’m currently working on Web Development</br>
-- 🌱 I’m currently learning PythonDjango</br>
+- 🔭 I’m currently working as Angular Developer at Skillikz</br>
+- 🌱 I’m currently learning MEAN Stack</br>
 - 🤔 I’m looking for help with ...</br>
 - 💬 Ask me about ...</br></br>
 # Contact Me
